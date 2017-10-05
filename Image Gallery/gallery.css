@@ -1,0 +1,28 @@
+.navbar-inverse{
+    background: #2c3e50;
+}
+
+.navbar-default .navbar-nav>li>a{
+    color: white;
+}
+
+.navbar-default .navbar-brand{
+    color: white;
+}
+
+.jumbotron{
+    background: #ecf0f1;
+    color: #2c3e50;
+}
+
+body{
+    padding-top: 70px;
+}
+
+.fa-camera-retro{
+    color: #2c3e50;
+}
+
+.ul.nav a:hover{
+    color: red;
+}
